@@ -8,10 +8,12 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|40xp|2일째🔥|
+3|40xp|2일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
+|[Novice Low / 단순 반복문 / sum 계산하기](https://www.codetree.ai/missions?missionId=4)|[[테스트]총합 구하기](https://www.codetree.ai/missions/4/problems/find-the-total)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/dawonss/codetree-TILs/blob/main/231113/%EC%B4%9D%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0/find-the-total.java)|
+|[Novice Low / 단순 반복문 / prod 계산하기](https://www.codetree.ai/missions?missionId=4)|[[개념]주어진 수까지의 곱](https://www.codetree.ai/missions/4/problems/multiplication-up-to-a-given-number)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/dawonss/codetree-TILs/blob/main/231113/%EC%A3%BC%EC%96%B4%EC%A7%84%20%EC%88%98%EA%B9%8C%EC%A7%80%EC%9D%98%20%EA%B3%B1/multiplication-up-to-a-given-number.java)|
 |[Novice Low / 단순 반복문 / prod 계산하기](https://www.codetree.ai/missions?missionId=4)|[[연습]a의 b승](https://www.codetree.ai/missions/4/problems/a-to-the-power-of-b)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/dawonss/codetree-TILs/blob/main/231113/a%EC%9D%98%20b%EC%8A%B9/a-to-the-power-of-b.java)|
 
 
